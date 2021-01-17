@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-img-labeler-console-app", "dotnet-img-labeler-console-app\dotnet-img-labeler-console-app.csproj", "{32D321DA-99B4-4AC8-BE29-479702F12D01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-img-labeler-lib", "dotnet-img-labeler-lib\dotnet-img-labeler-lib.csproj", "{C6154D33-1245-4326-8306-8B871F0D7876}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-img-labeler-tests", "dotnet-img-labeler-tests\dotnet-img-labeler-tests.csproj", "{F950DC3A-0EAF-4091-9369-3B54BFDA1D96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32D321DA-99B4-4AC8-BE29-479702F12D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D321DA-99B4-4AC8-BE29-479702F12D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D321DA-99B4-4AC8-BE29-479702F12D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D321DA-99B4-4AC8-BE29-479702F12D01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6154D33-1245-4326-8306-8B871F0D7876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6154D33-1245-4326-8306-8B871F0D7876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6154D33-1245-4326-8306-8B871F0D7876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6154D33-1245-4326-8306-8B871F0D7876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F950DC3A-0EAF-4091-9369-3B54BFDA1D96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F950DC3A-0EAF-4091-9369-3B54BFDA1D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F950DC3A-0EAF-4091-9369-3B54BFDA1D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F950DC3A-0EAF-4091-9369-3B54BFDA1D96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0566E183-A8BC-4356-8F60-88048739B896}
+	EndGlobalSection
+EndGlobal
