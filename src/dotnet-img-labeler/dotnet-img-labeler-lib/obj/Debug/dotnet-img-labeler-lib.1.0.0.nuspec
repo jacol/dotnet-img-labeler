@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>dotnet-img-labeler-lib</id>
+    <version>1.0.0</version>
+    <authors>Jacol</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="System.Drawing.Common" version="5.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\jniki\source\repos\dotnet-img-labeler\src\dotnet-img-labeler\dotnet-img-labeler-lib\bin\Debug\netcoreapp3.1\dotnet-img-labeler-lib.dll" target="lib\netcoreapp3.1\dotnet-img-labeler-lib.dll" />
+  </files>
+</package>

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "W86COnDahhBf5ePH0oupdo//y81x7+TogKdI1BvlHAj7pyV5WCzMakK8bV1jIW9+t7it+DrSRGNdKmdETbc5Sg==",
+  "dgSpecHash": "Vx/ioa7tDk0Yz9Inw6a21+T7fY1nAg+7MGd8dfgwavbya8B//Ntbp35b/G4M2Ar9K5iMZlazsOcBGpBgk6HfSA==",
   "success": true,
   "projectFilePath": "C:\\Users\\jniki\\source\\repos\\dotnet-img-labeler\\src\\dotnet-img-labeler\\dotnet-img-labeler-lib\\dotnet-img-labeler-lib.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jniki\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\jniki\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\jniki\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -6,4 +6,14 @@
     <RootNamespace>dotnet_img_labeler_console_app</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\dotnet-img-labeler-lib\dotnet-img-labeler-lib.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="in.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
