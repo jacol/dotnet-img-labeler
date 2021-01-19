@@ -1,9 +1,0 @@
-C:\Users\jniki\source\repos\dotnet-img-labeler\src\dotnet-img-labeler\dotnet-img-labeler-lib\bin\Release\netcoreapp3.1\dotnet-img-labeler-lib.deps.json
-C:\Users\jniki\source\repos\dotnet-img-labeler\src\dotnet-img-labeler\dotnet-img-labeler-lib\bin\Release\netcoreapp3.1\dotnet-img-labeler-lib.dll
-C:\Users\jniki\source\repos\dotnet-img-labeler\src\dotnet-img-labeler\dotnet-img-labeler-lib\bin\Release\netcoreapp3.1\dotnet-img-labeler-lib.pdb
-C:\Users\jniki\source\repos\dotnet-img-labeler\src\dotnet-img-labeler\dotnet-img-labeler-lib\obj\Release\netcoreapp3.1\dotnet-img-labeler-lib.csprojAssemblyReference.cache
-C:\Users\jniki\source\repos\dotnet-img-labeler\src\dotnet-img-labeler\dotnet-img-labeler-lib\obj\Release\netcoreapp3.1\dotnet-img-labeler-lib.AssemblyInfoInputs.cache
-C:\Users\jniki\source\repos\dotnet-img-labeler\src\dotnet-img-labeler\dotnet-img-labeler-lib\obj\Release\netcoreapp3.1\dotnet-img-labeler-lib.AssemblyInfo.cs
-C:\Users\jniki\source\repos\dotnet-img-labeler\src\dotnet-img-labeler\dotnet-img-labeler-lib\obj\Release\netcoreapp3.1\dotnet-img-labeler-lib.csproj.CoreCompileInputs.cache
-C:\Users\jniki\source\repos\dotnet-img-labeler\src\dotnet-img-labeler\dotnet-img-labeler-lib\obj\Release\netcoreapp3.1\dotnet-img-labeler-lib.dll
-C:\Users\jniki\source\repos\dotnet-img-labeler\src\dotnet-img-labeler\dotnet-img-labeler-lib\obj\Release\netcoreapp3.1\dotnet-img-labeler-lib.pdb
